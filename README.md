@@ -170,12 +170,14 @@ The platform uses Kafka to handle asynchronous processing for intensive operatio
 - **Kafka.js**: Kafka client for Node.js
 - **Google Generative AI**: AI integration
 
+
 ### Infrastructure
 
 - **Kafka**: Event streaming platform
 - **MongoDB Atlas**: Cloud database service
 - **Aiven**: Managed Kafka service
 - **Express Middleware**: Request processing pipeline
+- **Heroku Platform**: Backend hosting and kafka consumers
 
 ## Security Considerations
 
