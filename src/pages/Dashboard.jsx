@@ -302,9 +302,9 @@ const Dashboard = () => {
               </div>
             </button>
 
-            <Link to={"/analytics"}>
+            <Link to={"/team"}>
               <div className="text-black py-2 px-4 rounded-md border hover:bg-gray-200 transition duration-200 text-start bg-white cursor-pointer flex items-center gap-2">
-                <span>View Analytics Dashboard</span>
+                <span>Team Management</span>
                 <ArrowRight className="h-4 w-4 ml-auto" />
               </div>
             </Link>

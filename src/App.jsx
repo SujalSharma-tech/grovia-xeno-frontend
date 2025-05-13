@@ -86,7 +86,6 @@ function App() {
             />
             <Route path="actioncenter" element={<ActivityPage />} />
             <Route path="addcustomer" element={<Customer />} />
-            <Route path="analytics" element={<h1>Analytics</h1>} />
             <Route path="team" element={<TeamManagement />} />
           </Route>
 
