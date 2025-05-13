@@ -97,7 +97,7 @@ const CreateSegment = () => {
             {isLoading ? (
               <Loader2 className="h-10 w-10 animate-spin text-gray-500" />
             ) : (
-              <Save className="h-10 w-10 text-gray-500" />
+              <Save className="h-6 w-6 text-white" />
             )}
             Save Segment
           </Button>
